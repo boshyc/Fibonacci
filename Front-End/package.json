@@ -1,0 +1,26 @@
+{
+  "name": "finonanci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/next": "^9.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
+    "axios": "^1.3.6",
+    "next": "^13.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.16.1",
+    "typescript": "5.0.4"
+  }
+}
